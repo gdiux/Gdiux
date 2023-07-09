@@ -1,7 +1,7 @@
 ## Gilmer Contreras
 
 # 💫 About Me:
-I am a Full Stack Web Developer
+I am a Full Stack Web Developer & Mobile
 
 
 ## 🌐 Socials:
