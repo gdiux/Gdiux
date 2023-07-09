@@ -1,4 +1,4 @@
-##Gilmer ##Contreras
+## Gilmer Contreras
 
 # 💫 About Me:
 I am a Full Stack Web Developer
